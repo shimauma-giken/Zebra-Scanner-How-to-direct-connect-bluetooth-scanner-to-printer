@@ -1,3 +1,4 @@
+# Zebra BlutoothスキャナとZebra プリンタと直接接続する方法
 
 1. Zebra Setup Utilities for Windowsを起動する。
 
